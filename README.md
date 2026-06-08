@@ -2,7 +2,7 @@
 
 
 
-![Dashboard Preview](screenshots/main_dashboard.png)
+![Dashboard Preview](main_dashboard.png)
 
 
 
